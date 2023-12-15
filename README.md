@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> 
+<a href="www.linkedin.com/in/johyeongseob" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
 <!--
 **johyeongseob/johyeongseob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
