@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Master's course student in AI, ComputerVision Lab.
+I'm Master's course student in ComputerVision Lab.
 
 I'm passionate about studying AI, computervision, robotics, autonomous driving. I joined SVM Lab those professor is Sung In Cho
 <!--
