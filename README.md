@@ -3,17 +3,17 @@
 
 ### Hi there 👋
 
-I'm MS student🎓 in ComputerVision Lab.
+I'm MS student🧑‍🎓 in ComputerVision Lab.
 
 I'm passionate about studying AI🤖, computervision👁️‍🗨️, robotics⚙️. I joined [SVM](https://sites.google.com/view/csi2267svm/) Lab those PI is Sung In Cho in july 2023.
 
 Brief career
 
-2013-2020 Major in Ethics/English education at [ANU](https://tc.andong.ac.kr/)<br/>
-2014-2016 Serve in the military police(Mandatory)<br/>
-2020-2021 Teach at a [highschool](https://school.gyo6.net/yeongju-girl/main.do) as a ethics teacher<br/>
-2021-2023 Major in Mechanical engineering at [DGU](https://mecha.dongguk.edu/main)<br/>
-2024-NOW  MS student in the Computer/AI at [DGU](https://sites.google.com/view/csi2267svm)<br/>
+🎓 2013-2020 Major in Ethics/English education at [ANU](https://tc.andong.ac.kr/)<br/>
+🪖 2014-2016 Serve in the military police(Mandatory)<br/>
+🧑‍🏫 2020-2021 Teach at a [highschool](https://school.gyo6.net/yeongju-girl/main.do) as a ethics teacher<br/>
+🎓 2021-2023 Major in Mechanical engineering at [DGU](https://mecha.dongguk.edu/main)<br/>
+🎓 2024-NOW  MS student in the Computer/AI at [DGU](https://sites.google.com/view/csi2267svm)<br/>
 
 If you like to know about me more, please enter [my page](https://johyeongseob.github.io/)
 
