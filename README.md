@@ -3,6 +3,9 @@
 
 ### Hi there 👋
 
+I'm Master's course student in AI, ComputerVision Lab.
+
+I'm passionate about studying AI, computervision, robotics, autonomous driving. I joined SVM Lab those professor is Sung In Cho
 <!--
 **johyeongseob/johyeongseob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
