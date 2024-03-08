@@ -5,7 +5,9 @@
 
 🎓 I'm Master's course student in ComputerVision Lab.
 
-I'm passionate about studying AI, computervision, robotics. I joined [SVM](https://sites.google.com/view/csi2267svm/){:target="_blank" rel="noopener"} Lab those professor is Sung In Cho
+I'm passionate about studying AI🧠, computervision👁️‍🗨️, robotics🤖. I joined [SVM](https://sites.google.com/view/csi2267svm/) Lab those PI is Sung In Cho in july 2023.
+
+If you like to know about me more, please enter [my page](https://johyeongseob.github.io/)
 
 <!--
 **johyeongseob/johyeongseob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
