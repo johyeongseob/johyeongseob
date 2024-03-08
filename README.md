@@ -11,7 +11,7 @@ Brief career
 
 2013-2020 Major in Ethics/English education at [ANU](https://tc.andong.ac.kr/)<br/>
 2014-2016 Serve in the military police(Mandatory)<br/>
-2020-2021 Teach at a highschool(my hometown) as a ethics teacher<br/>
+2020-2021 Teach at a [highschool](https://school.gyo6.net/yeongju-girl/main.do) as a ethics teacher<br/>
 2021-2023 Major in Mechanical engineering at [DGU](https://mecha.dongguk.edu/main)<br/>
 2024-NOW  MS student in the Computer/AI at [DGU](https://sites.google.com/view/csi2267svm)<br/>
 
