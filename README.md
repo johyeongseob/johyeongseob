@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Master's course student🎓 in ComputerVision Lab.
+I'm MS student🎓 in ComputerVision Lab.
 
 I'm passionate about studying AI🤖, computervision👁️‍🗨️, robotics⚙️. I joined [SVM](https://sites.google.com/view/csi2267svm/) Lab those PI is Sung In Cho in july 2023.
 
