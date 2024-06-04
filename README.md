@@ -10,7 +10,7 @@ I'm passionate about studying AI🤖, computervision👁️, robotics⚙️. I j
 Brief career
 
 🎓 2013 - 2020: Major in Ethics education & English education(double) at [ANU](https://tc.andong.ac.kr/)<br/>
-🧑‍🏫 2020 - 2021: Teach at a [highschool](https://school.gyo6.net/yeongju-girl/main.do) as a ethics teacher<br/>
+🧑‍🏫 2020 - 2021: Teaching at a [highschool](https://school.gyo6.net/yeongju-girl/main.do) as a ethics teacher<br/>
 🎓 2021 - 2023: Major in Mechanical engineering at [DGU](https://mecha.dongguk.edu/main)<br/>
 🎓 2024 -     :  MS student in the Computer/AI at [DGU](https://sites.google.com/view/csi2267svm)<br/>
 
