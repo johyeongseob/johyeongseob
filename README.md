@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
-I'm MS student🧑‍🎓 in ComputerVision Lab.
+I'm an M.S. student 🧑‍🎓 in the Computer Vision Lab.
 
-I'm passionate about studying AI, and computervision. I joined [SVM](https://sites.google.com/view/csi2267svm/) Lab where PI is Sung In Cho
+I'm passionate about studying AI and computer vision.  
+
+I joined the [SVM Lab](https://sites.google.com/view/csi2267svm/), led by Prof. Sung In Cho.
