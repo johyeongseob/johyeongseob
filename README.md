@@ -1,4 +1,4 @@
-# <center> JOHYEONGSEOB </center>  
+# <center> HYEONGSEOB JO </center>  
 
 
 ### Hi there 👋
