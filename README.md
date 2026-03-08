@@ -18,17 +18,10 @@ https://johyeongseob.tistory.com/
 ### Research Interests
 - Deep Learning
 - Computer Vision
-- Multimodal Learning
-- Large Vision-Language Models
+- Vision-Language Models
 
 ### Tech Stack
 - Python
 - PyTorch
 - CUDA
 - ONNX Runtime
-
-### Blog
-https://johyeongseob.tistory.com/
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=johyeongseob&show_icons=true)
