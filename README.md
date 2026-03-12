@@ -16,12 +16,7 @@ https://johyeongseob.tistory.com/
 
 
 ### Research Interests
-- Deep Learning
-- Computer Vision
-- Vision-Language Models
+- Deep Learning, Computer Vision, Vision-Language Models (VLMs)
 
 ### Tech Stack
-- Python
-- PyTorch
-- CUDA
-- ONNX Runtime
+- Python, PyTorch, CUDA, ONNX Runtime
