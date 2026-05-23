@@ -9,7 +9,7 @@ I am passionate about Artificial Intelligence and Deep Learning.
 
 I received my M.S. from the [SVM Lab](https://sites.google.com/view/csi2267svm/) advised by Prof. Sung In Cho.
 
-- 💼 Former Research Engineer at [ML2](https://www.kc-ml2.com)
+- 💼 2025.12 - 2026.05: Machine Learning Engineer Intern at [ML2](https://www.kc-ml2.com)
 - 📝 Blog: https://johyeongseob.tistory.com/
 
 
