@@ -9,10 +9,8 @@ I am passionate about Artificial Intelligence and Deep Learning.
 
 I received my M.S. from the [SVM Lab](https://sites.google.com/view/csi2267svm/) advised by Prof. Sung In Cho.
 
-I am currently working on research at [ML2](https://www.kc-ml2.com)
-
-Blog:
-https://johyeongseob.tistory.com/
+- 💼 Former Research Engineer at [ML2](https://www.kc-ml2.com)
+- 📝 Blog: https://johyeongseob.tistory.com/
 
 
 ### Research Interests
