@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Hyeongseob Jo
+# Welcome! 👋 I'm Hyeongseob Jo
 
 ### AI Agent Engineer from South Korea, building practical AI systems
 
