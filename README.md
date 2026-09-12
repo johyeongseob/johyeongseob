@@ -21,5 +21,5 @@
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/hyeongseob-jo-7b102b344/">
-  <img src="assets/linkedin.png" height="40" alt="LinkedIn" />
+  <img src="assets/linkedin-custom.svg" width="40" height="40" alt="LinkedIn" />
 </a>
