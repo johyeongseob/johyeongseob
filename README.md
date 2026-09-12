@@ -6,7 +6,7 @@
 
 ### Professional Experience
 
-- (2026.09 - present) AI Agent Engineer at InterX (Gen.AI R&D)
+- (2026.09 - Present) AI Agent Engineer at InterX (Gen.AI R&D)
 - (2025.12 - 2026.05) Computer Vision Intern at KC (ML2)
 
 
@@ -28,24 +28,12 @@
   - Built a ROS 2 autonomous navigation system for TurtleBot3 using an NVIDIA Jetson Nano.
   - Integrated LiDAR, ultrasonic, and IMU sensors and validated navigation in a real-world environment.
 
-### Achievements
-
-<a href="https://developers.google.com/profile/badges/community/gsoc/finisher?u=johyeongseob&hl=en">
-  <img src="assets/gsoc-contributor-badge.svg" alt="Google Summer of Code Contributor badge" width="100">
-</a>
-
-**Google Summer of Code Contributor (2026)**<br>
-Completed a GSoC project with the Intel OpenVINO Toolkit organization.
 
 ### Research Interests
 
 Agentic AI, Deep Learning, Computer Vision, Vision-Language Models, and Industrial AI
 
+
 ### Tech Stack
 
 Python · PyTorch · Hugging Face Transformers · OpenVINO · ONNX Runtime · CUDA
-
-### Links
-
-- [Blog](https://johyeongseob.tistory.com/)
-- [GitHub](https://github.com/johyeongseob)
