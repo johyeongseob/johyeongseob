@@ -17,3 +17,9 @@
 - 🌐 A little more about me: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
 
 - 🌱 Exploring how AI research can become useful real-world applications
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/hyeongseob-jo-7b102b344/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+</a>
