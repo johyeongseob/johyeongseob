@@ -4,8 +4,8 @@
 
 ### AI Agent Engineer from South Korea, building practical AI systems
 
-
 </div>
+
 
 - 💼 Currently working on generative AI and AI agent systems
 
