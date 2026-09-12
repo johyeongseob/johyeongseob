@@ -14,6 +14,6 @@
 
 - 📫 Reach me: [hs.jo@interxlab.com](mailto:hs.jo@interxlab.com)
 
-- 🌐 Get to know me: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
+- 🌐 A little more about me: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
 
 - 🌱 Exploring how AI research can become useful real-world applications
