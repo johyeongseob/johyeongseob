@@ -12,13 +12,13 @@
 
 - ✨ I’m passionate about **Agentic AI, Computer Vision, Multimodal Learning, and Industrial AI**
 
-- 📫 Reach me: [hs.jo@interxlab.com](mailto:hs.jo@interxlab.com)
+- 🌱 Exploring how AI research can become useful real-world applications
+
+- 📄 My CV: [github.com/johyeongseob/resume](https://github.com/johyeongseob/resume/blob/master/resume.pdf)
 
 - 🌐 A little more about me: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
 
-- 📄 My CV: [github.com/johyeongseob/resume](https://github.com/johyeongseob/resume/blob/master/resume.pdf) (PDF)
-
-- 🌱 Exploring how AI research can become useful real-world applications
+- 📫 Reach me: [hs.jo@interxlab.com](mailto:hs.jo@interxlab.com)
 
 ### Connect with me
 
