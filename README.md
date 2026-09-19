@@ -16,6 +16,8 @@
 
 - 🌐 A little more about me: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
 
+- 📄 My CV: [github.com/johyeongseob/resume](https://github.com/johyeongseob/resume/blob/master/resume.pdf) (PDF)
+
 - 🌱 Exploring how AI research can become useful real-world applications
 
 ### Connect with me
