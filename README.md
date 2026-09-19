@@ -16,7 +16,7 @@
 
 - 📄 My CV: [github.com/johyeongseob/resume](https://github.com/johyeongseob/resume/blob/master/resume.pdf)
 
-- 🌐 A little more about me: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
+- 🌐 Come visit my website: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
 
 - 📫 Reach me: [hs.jo@interxlab.com](mailto:hs.jo@interxlab.com)
 
