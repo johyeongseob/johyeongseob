@@ -14,9 +14,9 @@
 
 - 🌱 Exploring how AI research can become useful real-world applications
 
-- 📄 My CV: [github.com/johyeongseob/resume](https://github.com/johyeongseob/resume/blob/master/resume.pdf)
+- 📄 Resume: [github.com/johyeongseob/resume](https://github.com/johyeongseob/resume/blob/master/resume.pdf)
 
-- 🌐 Come visit my website: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
+- 🌐 Come say hi: [johyeongseob.github.io](https://johyeongseob.github.io/) *(work in progress)*
 
 - 📫 Reach me: [hs.jo@interxlab.com](mailto:hs.jo@interxlab.com)
 
