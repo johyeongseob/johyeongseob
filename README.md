@@ -21,5 +21,4 @@
 ### Connect with me
 
 <a href="https://johyeongseob.github.io/" title="Personal website (work in progress)"><img src="assets/website.svg" width="40" height="40" alt="Personal website" /></a>
-
 <a href="https://www.linkedin.com/in/hyeongseob-jo-909952415/"><img src="assets/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
