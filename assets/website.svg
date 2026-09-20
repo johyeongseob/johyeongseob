@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Personal website</title>
+  <rect width="512" height="512" rx="48" fill="#000000"/>
+  <g fill="none" stroke="#0A66C2" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="256" r="168"/>
+    <ellipse cx="256" cy="256" rx="76" ry="168"/>
+    <path d="M88 256h336M112 172h288M112 340h288"/>
+  </g>
+</svg>
