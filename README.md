@@ -16,11 +16,7 @@
 
 - 🌐 Website: https://johyeongseob.github.io
 
-<br>
-
 ---
-
-<br>
 
 **Languages**
 
