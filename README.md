@@ -30,6 +30,7 @@
 
 <p>
 <a href="https://pytorch.org/" title="PyTorch"><img src="assets/badges/pytorch.svg" alt="PyTorch" /></a>
+<a href="https://opencv.org/" title="OpenCV"><img src="assets/badges/opencv.svg" alt="OpenCV" /></a>
 <a href="https://docs.langchain.com/oss/python/langgraph/overview" title="LangGraph"><img src="assets/badges/langgraph.svg" alt="LangGraph" /></a>
 </p>
 
