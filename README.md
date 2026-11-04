@@ -1,15 +1,19 @@
-`$ echo "Welcome! 👋"`<br>
-**Welcome! 👋**
+```python
+# Welcome! 👋
 
-`$ whoami`<br>
-**AI Agent Engineer** from South Korea
+class HyeongseobJo:
+    role = "AI Agent Engineer"
+    location = "South Korea"
+    current_work = "Generative AI & AI agent systems"
+    passions = [
+        "Agentic AI",
+        "Computer Vision",
+        "Multimodal Learning",
+        "Industrial AI",
+    ]
+    mission = "Exploring how AI research can become useful real-world applications"
+```
 
-`$ cat about.txt`<br>
-💼 Generative AI & AI agent systems<br>
-✨ Agentic AI · Computer Vision · Multimodal Learning · Industrial AI<br>
-🌱 Exploring how AI research can become useful real-world applications
-
-`$ ls links/`<br>
 📄 [resume.pdf](https://github.com/johyeongseob/resume/blob/master/resume.pdf) · 🌐 [johyeongseob.github.io](https://johyeongseob.github.io)
 
 ---
