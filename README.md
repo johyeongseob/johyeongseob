@@ -8,7 +8,7 @@
 
 - 💼 **Now** — Generative AI & AI agent systems
 
-- ✨ **Passions** — Agentic AI · Computer Vision · Multimodal Learning · Industrial AI
+- ✨ **Passions** — Agentic AI · Computer Vision · Multimodal Learning · Physical AI · Industrial AI
 
 - 🌱 **Mission** — Exploring how AI research can become useful real-world applications
 
