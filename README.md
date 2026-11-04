@@ -1,20 +1,20 @@
-```python
-# Welcome! 👋
+<div align="center">
 
-class HyeongseobJo:
-    role = "AI Agent Engineer"
-    location = "South Korea"
-    current_work = "Generative AI & AI agent systems"
-    passions = [
-        "Agentic AI",
-        "Computer Vision",
-        "Multimodal Learning",
-        "Industrial AI",
-    ]
-    mission = "Exploring how AI research can become useful real-world applications"
-```
+# Welcome! 👋 I'm Hyeongseob Jo
 
-📄 [resume.pdf](https://github.com/johyeongseob/resume/blob/master/resume.pdf) · 🌐 [johyeongseob.github.io](https://johyeongseob.github.io)
+### AI Agent Engineer from South Korea
+
+</div>
+
+- 💼 **Now** — Generative AI & AI agent systems
+
+- ✨ **Passions** — Agentic AI · Computer Vision · Multimodal Learning · Industrial AI
+
+- 🌱 **Mission** — Exploring how AI research can become useful real-world applications
+
+- 📄 **Resume** — [resume.pdf](https://github.com/johyeongseob/resume/blob/master/resume.pdf)
+
+- 🌐 **Website** — [johyeongseob.github.io](https://johyeongseob.github.io)
 
 ---
 
