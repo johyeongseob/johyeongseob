@@ -1,19 +1,16 @@
-<pre>
-$ echo "Welcome! 👋"
-Welcome! 👋
+`$ echo "Welcome! 👋"`<br>
+**Welcome! 👋**
 
-$ whoami
-Hyeongseob Jo — AI Agent Engineer from Seoul, South Korea
+`$ whoami`<br>
+**AI Agent Engineer** from South Korea
 
-$ cat about.txt
-💼 Generative AI &amp; AI agent systems
-✨ Agentic AI · Computer Vision · Multimodal Learning · Industrial AI
+`$ cat about.txt`<br>
+💼 Generative AI & AI agent systems<br>
+✨ Agentic AI · Computer Vision · Multimodal Learning · Industrial AI<br>
 🌱 Exploring how AI research can become useful real-world applications
 
-$ ls links/
-📄 <a href="https://github.com/johyeongseob/resume/blob/master/resume.pdf">resume.pdf</a>
-🌐 <a href="https://johyeongseob.github.io">johyeongseob.github.io</a>
-</pre>
+`$ ls links/`<br>
+📄 [resume.pdf](https://github.com/johyeongseob/resume/blob/master/resume.pdf) · 🌐 [johyeongseob.github.io](https://johyeongseob.github.io)
 
 ---
 
